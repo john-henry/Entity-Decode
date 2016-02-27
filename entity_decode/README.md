@@ -27,9 +27,9 @@ Entity Decode is compatible with ExpressionEngine 3
 ## Changelog
 
 
-### 1.0
+### 1.0.0
 
-- Released!
+- Initial release
 
 ## Warranty/License
 
