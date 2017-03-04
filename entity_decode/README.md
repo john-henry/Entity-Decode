@@ -16,7 +16,6 @@ The Entity Decode plugin converts HTML entities in a string to their applicable 
 
 #### Example Usage
 
-
         {exp:entity_decode}{title}{/exp:entity_decode}
 
 
